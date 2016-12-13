@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Box"
-  s.version      = "0.0.8"
+  s.version      = "0.0.9"
   s.summary      = "robrix/Box v2.0 -> convert"
   s.homepage     = "https://github.com/szalay-kund/Box"
   s.license      = { :type => "MIT", :file => "LICENSE" }
