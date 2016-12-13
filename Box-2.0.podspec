@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "robrix/Box v2.0 -> convert"
   s.homepage     = "https://github.com/szalay-kund/Box"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Kiskamoni-Szalay Kund" => "apro_szalay@yahoo.co.uk" }
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
